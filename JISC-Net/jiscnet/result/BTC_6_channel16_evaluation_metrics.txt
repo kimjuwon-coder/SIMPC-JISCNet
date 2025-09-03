@@ -1,0 +1,3 @@
+Average: 0.25439
+F1-macro: 0.19259
+F1-micro: 0.25439

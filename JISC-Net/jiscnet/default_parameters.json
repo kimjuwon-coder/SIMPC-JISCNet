@@ -1,0 +1,15 @@
+{
+    "compared_length": 50,
+    "batch_size": 32,
+    "epochs": 100,
+    "lr": 0.001,
+    "channels": 64,
+    "depth": 3,
+    "reduced_size": 16,
+    "kernel_size": 5,
+    "in_channels": 3,
+    "out_channels": 16,
+    "cuda": true,
+    "gpu": 5,
+    "shapelet_num": 0
+}
